@@ -8,8 +8,8 @@ import os
 import time
 
 # Initialize client
-API_KEY = "AK1L8F4KFEBI63PT7ODI"
-SECRET_KEY = "0K4dmimNx0wQuqlj6GB1RvfOGj55xKvFUFcNcgOh"
+API_KEY = ""
+SECRET_KEY = ""
 
 client = StockHistoricalDataClient(API_KEY, SECRET_KEY)
 

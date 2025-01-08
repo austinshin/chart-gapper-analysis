@@ -8,8 +8,8 @@ import pandas as pd
 import os
 
 # Your API credentials
-API_KEY = "AK1L8F4KFEBI63PT7ODI"
-SECRET_KEY = "0K4dmimNx0wQuqlj6GB1RvfOGj55xKvFUFcNcgOh"
+API_KEY = ""
+SECRET_KEY = ""
 BASE_URL = "https://api.alpaca.markets"
 
 # Initialize with your Market Data API keys
