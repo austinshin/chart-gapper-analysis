@@ -1,0 +1,11 @@
+# config.py
+API_KEY = "AK1L8F4KFEBI63PT7ODI"
+SECRET_KEY = "0K4dmimNx0wQuqlj6GB1RvfOGj55xKvFUFcNcgOh"
+GAP_RESULTS_FILE = "gap_results_20250107_193248.csv"  # Update this to your latest results file
+
+# Analysis parameters
+MIN_PRICE = 0.70
+MIN_GAP_PERCENTAGE = 50
+MAX_GAP_PERCENTAGE = 300
+TOP_N_GAPPERS = 500
+MIN_VOLUME = 100000
